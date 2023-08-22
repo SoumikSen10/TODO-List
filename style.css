@@ -54,7 +54,7 @@ button {
 }
 
 #new-task-submit {
-    color: rgb(203, 37, 92);
+    color: rgb(144, 238, 144);
     font-size: 2rem;
     font-weight: 700;
     background-image: linear-gradient(to right, rgb(92 11 106), rgb(92 7 103));
